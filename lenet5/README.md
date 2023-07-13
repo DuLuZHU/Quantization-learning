@@ -1,6 +1,7 @@
 # LeNet-5
 
 此程序实现了使用lenet5网络训练并预测mnist及cifar10这两个数据集，并且可以生成.onnx文件
+
 额外提供了（mnist）ResNet18的训练程序（trainres.py）以及pytorch官方的resnet的其他网络结构
 
 ## Setup
