@@ -7,8 +7,11 @@
 ## Setup
 
 环境配置：
+
 python3.10.0
+
 torch2.0.0+cu118
+
 torchvision0.15.0+cu118
 
 ```
